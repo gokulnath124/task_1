@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20240121T043000Z
+DTEND:20240124T053000Z
+DTSTAMP:20240121T054032Z
+ORGANIZER;CN="AlgoTutor":MAILTO:calendar-invite@lu.ma
+UID:evt-YxBFi8bLrLKpoDl@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=gokuln
+ athdharmalingam7@gmail.com;X-NUM-GUESTS=0:mailto:gokulnathdharmalingam7@gma
+ il.com
+SUMMARY:Generative AI Free Workshop
+DESCRIPTION:Get up-to-date information at: https://lu.ma/3y062faq?pk=g-Esac
+ 8yTqS9dqDSW\n\nClick to join: https://lu.ma/join/g-Esac8yTqS9dqDSW\n\n🌟 Al
+ goTutor's Exclusive Generative AI Workshop: A 5-Day Journey into the Future
+  of Technology! 🚀\nEmbark on a transformative learning experience with Alg
+ oTutor, a leading EdTech startup, as we present a Free 5-Day Workshop on Ge
+ nerative AI from January 20th to January 24th. This comprehensive event is 
+ meticulously crafted to provide participants with hands-on knowledge and pr
+ actical insights into the realm of Generative AI.\nEvent Highlights:\n🔍 Da
+ y 1: Real-World Impact and Project Showcase\nDiscover the real-world impact
+  of Generative AI across diverse industries. Witness inspiring projects tha
+ t showcase the capabilities of Generative AI in shaping the future.\n💬 Day
+  2: NLP - Building a Chatbot using RASA\nDive into the fascinating world of
+  Natural Language Processing (NLP) and learn to build a sophisticated chatb
+ ot using RASA, one of the leading frameworks in the field.\n💹 Day 3: Data 
+ Science in FinTech - Stock Prediction Algorithm\nExplore the intersection o
+ f Generative AI and FinTech. Build your own stock prediction algorithm usin
+ g cutting-edge data science techniques.\n🌐 Day 4: Generative AI Project - 
+ Chat with Webpages using LLM\nUnleash your creativity as you engage in a ha
+ nds-on project, creating a dynamic interaction with webpages using Large La
+ nguage Models (LLM).\n🎨 Day 5: Generative AI Project - Image Generation us
+ ing DALL-E\nCap off the workshop by delving into the captivating world of i
+ mage generation. Learn to create stunning visuals using DALL-E, a revolutio
+ nary Generative AI model.\nEvent Details:\n- 📅 Dates: January 20th - Janua
+ ry 24th\n- ⏰ Time: 10:00 AM - 11:00 AM\n- 📍 Location: Virtual - Access fro
+ m anywhere\nSecure your spot for this enlightening journey into Generative 
+ AI by registering now! Don't miss the opportunity to acquire practical skil
+ ls and insights that will shape your understanding of the future.\nFor Quer
+ ies:\nVisit our website at algotutor.io for more details or feel free to ca
+ ll us at 7260058093. Seize the chance to be part of this groundbreaking wor
+ kshop and unlock the potential of Generative AI.\n🚀 AlgoTutor - Shaping Mi
+ nds, Transforming Futures! 🚀
+LOCATION:https://lu.ma/join/g-Esac8yTqS9dqDSW
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
